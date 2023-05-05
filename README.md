@@ -5,7 +5,7 @@ This project controls the LED display of the Red Pitaya as an illustration and t
 
 ## Requisites
 
-This project requires the installation of node.js and express on the Red Pitaya.
+This project assumes the official ecosystem of the Red Pitaya is already installed and in addition it requires the installation of node.js and express on the Red Pitaya.
 
 I used the following commands to install them:
 
