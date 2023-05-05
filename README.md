@@ -50,6 +50,27 @@ you should get
     Leds status is 0x000000c8
     
     
+## Alternatively you can Test this way
+
+On a browser type
+
+    http://IP:3000/leds/8
+    
+where IP is the IP address of the Red Pitaya board
+you should see the response: 
+
+    Leds changed to 200
+    
+The number 200 should display in binary mode on the LED display of the Red Pitaya
+If you type 
+
+    http://169.254.219.195:3000/leds/
+    
+you should get 
+
+    Leds status is 0x000000c8
+    
+    
 ## License
 
 [MIT](LICENSE)
