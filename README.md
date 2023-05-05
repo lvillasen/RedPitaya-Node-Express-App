@@ -17,9 +17,9 @@ I used the following commands to install them:
 
 ## Usage
 
-    Clone the repository
+Clone the repository
     
-    Copy the file redpitaya_node_express.js to any folder of the Red Pitaya board
+Copy the file redpitaya_node_express.js to any folder of the Red Pitaya board
     
 On a Red Pitaya terminal cd to that folder and execute the command: 
 
