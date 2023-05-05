@@ -35,8 +35,9 @@ On a client terminal type
 
     curl http://IP:3000/leds/200
     
-where IP is the IP address of the Red Pitaya board
-you should see the response: 
+where IP is the IP address of the Red Pitaya board.
+
+You should see the response: 
 
     Leds changed to 200
     
@@ -56,8 +57,9 @@ On a browser type
 
     http://IP:3000/leds/200
     
-where IP is the IP address of the Red Pitaya board
-you should see the response: 
+where IP is the IP address of the Red Pitaya board.
+
+You should see the response: 
 
     Leds changed to 200
     
