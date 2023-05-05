@@ -33,7 +33,7 @@ If node and express are installed correctly you will get:
 
 On a client terminal type
 
-    curl http://IP:3000/leds/8
+    curl http://IP:3000/leds/200
     
 where IP is the IP address of the Red Pitaya board
 you should see the response: 
@@ -50,11 +50,11 @@ you should get
     Leds status is 0x000000c8
     
     
-## Alternatively you can Test this way
+## Alternatively Test
 
 On a browser type
 
-    http://IP:3000/leds/8
+    http://IP:3000/leds/200
     
 where IP is the IP address of the Red Pitaya board
 you should see the response: 
