@@ -42,7 +42,8 @@ You should see the response:
     Leds changed to 200
     
 The number 200 should display in binary mode on the LED display of the Red Pitaya
-If you type 
+
+Likewise if you type 
 
     curl http://169.254.219.195:3000/leds/
     
@@ -64,7 +65,8 @@ You should see the response:
     Leds changed to 200
     
 The number 200 should display in binary mode on the LED display of the Red Pitaya
-If you type 
+
+Likewise if you type 
 
     http://169.254.219.195:3000/leds/
     
