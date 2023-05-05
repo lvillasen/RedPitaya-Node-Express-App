@@ -58,15 +58,15 @@ which is the binary representation of 200.
 
 On a browser type
 
-    http://IP:3000/leds/200
+    http://IP:3000/leds/100
     
 where IP is the IP address of the Red Pitaya board.
 
 You should see the response: 
 
-    Leds changed to 200
+    Leds changed to 100
     
-The number 200 should display in binary mode on the LED display of the Red Pitaya
+The number 100 should display in binary mode on the LED display of the Red Pitaya
 
 Likewise if you type 
 
@@ -74,9 +74,9 @@ Likewise if you type
     
 you should get 
 
-    Leds status is 0x000000c8
+    Leds status is 0x00000064
     
-which is the binary representation of 200.
+which is the binary representation of 100.
 
     
     
