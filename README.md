@@ -51,6 +51,8 @@ you should get
 
     Leds status is 0x000000c8
     
+which is the binary representation of 200.
+    
     
 ## Alternative Test 1
 
@@ -73,6 +75,9 @@ Likewise if you type
 you should get 
 
     Leds status is 0x000000c8
+    
+which is the binary representation of 200.
+
     
     
 ## License
