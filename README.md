@@ -50,7 +50,7 @@ you should get
     Leds status is 0x000000c8
     
     
-## Alternatively Test
+## Alternative Test 1
 
 On a browser type
 
