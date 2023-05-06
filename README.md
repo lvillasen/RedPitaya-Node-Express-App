@@ -78,6 +78,9 @@ you should get
     
 which is the binary representation of 100.
 
+## Alternative Test 2 using JavaScript
+
+Clone the repository and open the file index.html with any browser
     
     
 ## License
