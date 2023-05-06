@@ -5,7 +5,7 @@ This project controls the LED display of the Red Pitaya to illustrate this metho
 
 ## Requisites
 
-This project assumes the official ecosystem of the Red Pitaya is already installed and in addition it requires the installation of node.js and express on the Red Pitaya.
+This project assumes the official ecosystem of the Red Pitaya is already installed and in addition it requires the installation of node.js,  express and cors on the Red Pitaya.
 
 I used the following commands to install them:
 
@@ -14,6 +14,7 @@ I used the following commands to install them:
     cd node-v17.9.1-linux-armv7l 
     cp -R * /usr/local/
     npm install express
+    npm install cors
 
 ## Usage
 
