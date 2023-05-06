@@ -1,6 +1,8 @@
 const express   = require('express');
 const execSync = require('child_process').execSync;
 const app       = express();
+const cors   = require('cors');
+app.use(cors({origin:"*",}))
 
 app.get('/leds/:id', function (req, res) {
 const output = execSync('monitor 0x40000030 '+req.params.id, { encoding: 'utf-8' });  
