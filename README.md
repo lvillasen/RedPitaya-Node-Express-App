@@ -26,7 +26,7 @@ On a Red Pitaya terminal cd to that folder and execute the command:
 
     node redpitaya_node_express.js
     
-If node and express are installed correctly you will get: 
+If node, express and cors are installed correctly you will get: 
 
     App Server is listening on port 3000
 
