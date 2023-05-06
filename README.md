@@ -81,7 +81,13 @@ which is the binary representation of 100.
 
 ## Alternative Test 2 using JavaScript
 
-Clone the repository and open the file index.html with any browser
+Clone the repository  
+
+Change line 3 of file client.js to
+
+    const my_url='http://IP_of_your_RedPitaya:3000/leds/'
+
+Open the file index.html with any browser
     
     
 ## License
