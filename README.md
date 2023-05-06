@@ -30,7 +30,7 @@ If node, express and cors are installed correctly you will get:
 
     App Server is listening on port 3000
 
-## Test
+## Test with the curl command
 
 On a client terminal type
 
@@ -55,7 +55,7 @@ you should get
 which is the binary representation of 200.
     
     
-## Alternative Test 1
+## Alternative test with a web browser
 
 On the address bar of any browser type
 
@@ -79,7 +79,7 @@ you should get
     
 which is the binary representation of 100.
 
-## Alternative Test 2 using JavaScript
+## Alternative test with a web app using JavaScript
 
 Clone the repository  
 
