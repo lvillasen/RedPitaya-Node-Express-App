@@ -57,7 +57,7 @@ which is the binary representation of 200.
     
 ## Alternative test with a web browser
 
-On the address bar of any browser type
+On the address bar of any web browser type
 
     http://IP:3000/leds/100
     
