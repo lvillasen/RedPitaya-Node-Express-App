@@ -1,5 +1,5 @@
 # RedPitaya LEDs with Node and Express
-Communication and control of the Red Pitaya board using Node.js which is a back-end JavaScript runtime environment.
+Web app to control the Red Pitaya board using Node.js which is a back-end JavaScript runtime environment.
 
 This project controls the LED display of the Red Pitaya to illustrate this method.
 
